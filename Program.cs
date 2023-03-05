@@ -48,6 +48,5 @@ Console.ReadKey();
 text = ReadText("А теперь с произвольным текстом. Введите введите с клавиатуры, либо вставьте скопированое: ");
 TextSplitting(text);
 
-
 System.Console.WriteLine();
 System.Console.WriteLine("The End.");
